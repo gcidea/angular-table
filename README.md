@@ -1,5 +1,5 @@
 # angular-table
- 使用AngularJs封装表格内容渲染组件
+使用AngularJs封装表格内容渲染组件
 
 
 ## 功能描述
